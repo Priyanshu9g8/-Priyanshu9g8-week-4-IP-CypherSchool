@@ -1,0 +1,134 @@
+
+for (let i = 1; i < 10000; i++) {
+console.log("inside for loop");
+}
+
+
+console.log("script end");
+
+setTimeout
+
+console.log("script start");
+setTimeout(() => {
+    console.log("inside setTimeout");
+}, 1000);
+
+console.log("Script end");
+
+
+console.log("script start");
+setTimeout(() => {
+    console.log("inside setTimeout");
+}, 1000);
+
+for (let i = 1; i < 100; itt) {
+console.log("....");
+}
+console. log("Script end");
+
+
+console.log("settimeout id is ", id);
+console.log("clearing time out");
+clearTimeout(id);
+
+console.log("Script end");
+
+
+button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1lrem 1.5rem;
+    border: none;
+    cursor: pointer;
+    font-size: 3rem;
+    box-shadow: 0px 0px 10px black#000;
+}
+
+
+const body = document .body;
+const button = document.querySelector("button"
+
+set Interval(() => {
+    const red = Math.floor(Math.random() * 126);
+    const blue = Math.floor(Math.random() * 126);
+    const rgb = ‘rgb(${red},${green}, ${blue})*;|
+    body.style.background = rgb;
+}, 1000);
+
+console.log(invervalId);
+
+
+button.addEventListener("click", () => ff
+    
+    
+    
+const headingl = document .querySelector(".heading1");
+const heading2 = document.querySelector(".heading2");
+Pasi eO leas
+heading1.textContent
+heading1.style.color
+setTimeout(()=>{
+heading2.textContent = "Heading 2"
+heading2.style.color = "red";
+
+},1000)
+},1000);
+
+
+function changeText(element, text, color, time, onSuccessCallback){
+setTimeout(()=>{
+if(element){
+
+Bese ae
+oC ses eet
+ete
+CRE a Cocca)
+}
+}, time)
+
+}
+
+ 
+
+changeText(headingl, "one", "violet", 3000:
+
+
+
+const bucket = ['coffee', 'chips','vegetables', 'salt','rice'];
+
+if (bucket. includes("vegetables")&& bucket. includes("salt") && bucket. inc
+resolve("Fried Rice");
+
+}else{
+    reject("Couldn't do it");
+}
+})
+
+
+function myPromise(){
+return new Promise((resolve, reject)=>{
+resolvd("foo") ;
+})
+}
+
+
+const URL = ‘https://jsonplaceholder . typicode.com/postss*;
+const xhr = new XMLHttpRequest();
+
+xhr.open("GET", URL);
+
+xhr.onload = () => {
+
+}
+xhr. send();
+
+
+import ifirstName as fname} from './utils/fname.js'
+import {age} from './utils/age.js'
+
+
+CU oe meee eres meee ea UE ee
+import {age} from './utils/age.js'
+import something, {Person,Person2} from './utils/Person.js'
